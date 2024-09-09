@@ -1,1 +1,9 @@
-[]
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.dirtroad.app.demo",
+    "sha256_cert_fingerprints":
+    ["C6:86:26:D5:1E:DF:92:0F:2A:3D:36:5A:6D:73:6E:41:D2:DB:93:C7:95:B5:B5:4E:A7:3B:44:D0:B0:DB:65:AA"]
+  }
+}]
